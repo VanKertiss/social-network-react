@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/social-network-react/static/css/main.ab3e8368.chunk.css",
+    "main.js": "/social-network-react/static/js/main.1006bacc.chunk.js",
+    "main.js.map": "/social-network-react/static/js/main.1006bacc.chunk.js.map",
+    "runtime-main.js": "/social-network-react/static/js/runtime-main.853ef0ce.js",
+    "runtime-main.js.map": "/social-network-react/static/js/runtime-main.853ef0ce.js.map",
+    "static/js/2.fe8e47bb.chunk.js": "/social-network-react/static/js/2.fe8e47bb.chunk.js",
+    "static/js/2.fe8e47bb.chunk.js.map": "/social-network-react/static/js/2.fe8e47bb.chunk.js.map",
+    "static/css/3.ebd22b57.chunk.css": "/social-network-react/static/css/3.ebd22b57.chunk.css",
+    "static/js/3.9f001aa3.chunk.js": "/social-network-react/static/js/3.9f001aa3.chunk.js",
+    "static/js/3.9f001aa3.chunk.js.map": "/social-network-react/static/js/3.9f001aa3.chunk.js.map",
+    "static/css/4.f452fb25.chunk.css": "/social-network-react/static/css/4.f452fb25.chunk.css",
+    "static/js/4.1013d892.chunk.js": "/social-network-react/static/js/4.1013d892.chunk.js",
+    "static/js/4.1013d892.chunk.js.map": "/social-network-react/static/js/4.1013d892.chunk.js.map",
+    "static/css/5.dd19b286.chunk.css": "/social-network-react/static/css/5.dd19b286.chunk.css",
+    "static/js/5.d1c28c85.chunk.js": "/social-network-react/static/js/5.d1c28c85.chunk.js",
+    "static/js/5.d1c28c85.chunk.js.map": "/social-network-react/static/js/5.d1c28c85.chunk.js.map",
+    "index.html": "/social-network-react/index.html",
+    "static/css/3.ebd22b57.chunk.css.map": "/social-network-react/static/css/3.ebd22b57.chunk.css.map",
+    "static/css/4.f452fb25.chunk.css.map": "/social-network-react/static/css/4.f452fb25.chunk.css.map",
+    "static/css/5.dd19b286.chunk.css.map": "/social-network-react/static/css/5.dd19b286.chunk.css.map",
+    "static/css/main.ab3e8368.chunk.css.map": "/social-network-react/static/css/main.ab3e8368.chunk.css.map",
+    "static/js/2.fe8e47bb.chunk.js.LICENSE.txt": "/social-network-react/static/js/2.fe8e47bb.chunk.js.LICENSE.txt",
+    "static/media/Bean Eater-0.4s-191px.a62bd9ed.gif": "/social-network-react/static/media/Bean Eater-0.4s-191px.a62bd9ed.gif",
+    "static/media/App.css": "/social-network-react/static/media/background.4b1a6989.jpg",
+    "static/media/no_foto.jpg": "/social-network-react/static/media/no_foto.00bd3a24.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.853ef0ce.js",
+    "static/js/2.fe8e47bb.chunk.js",
+    "static/css/main.ab3e8368.chunk.css",
+    "static/js/main.1006bacc.chunk.js"
+  ]
+}
