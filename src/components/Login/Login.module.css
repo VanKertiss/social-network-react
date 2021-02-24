@@ -1,0 +1,15 @@
+.login{
+    display: flex;
+    flex-direction: row;
+}
+
+.formSumoryError{
+    border: 2px red solid;
+    color: red;
+    padding: 5px;
+    width: 15%;
+}
+
+.loginContainer{
+    margin: 20px 50px;
+}

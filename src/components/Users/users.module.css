@@ -1,0 +1,10 @@
+.UserPhoto{
+    width: 150px;
+}
+
+.main{
+    padding: 20px;
+}
+.selected{
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+.main {
+  grid-area: m;
+  color: white;
+}
+
+.block{
+  border: 2px solid red;
+  width: 100px;
+  height: 30px;
+}
+
+.profileStatus {
+  padding: 10px;
+}
